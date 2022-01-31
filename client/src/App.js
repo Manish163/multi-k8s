@@ -19,7 +19,7 @@ function App() {
           >
             Learn React
           </a>
-          <h1 className='App-title'>Fibonacci Calculator K8s</h1>
+          <h1 className='App-title'>Fibonacci Calculator using K8s</h1>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
         </header>
